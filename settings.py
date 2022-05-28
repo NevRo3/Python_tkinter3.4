@@ -1,0 +1,11 @@
+height = 700
+width = 700
+background = 'white'
+pos_x = width / 2
+pos_y = height / 2
+min_size = 8
+max_size = 30
+min_speed = 1
+max_speed = 4
+max_asteroids = 10
+colors = ['black', 'red', 'green', 'blue', 'cyan', 'yellow']
